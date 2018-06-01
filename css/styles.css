@@ -76,7 +76,7 @@ body {
 
 header {
   height: 680px;
-  background-image: url('/img/banner-9.jpg');
+  background-image: url('../img/banner-9.jpg');
   background-repeat: no-repeat;
   background-position: 0px 95px;
   background-size: cover;
@@ -445,38 +445,11 @@ ul.osob {
   font-size: 15px;
 }
 
-/*==========  Desktop First Method  ==========*/
-
-/* Large Devices, Wide Screens */
-
-/* Medium Devices, Desktops */
-
-/* Small Devices, Tablets */
-
-/* Extra Small Devices, Phones */
-
 .param_block i {
   font-size: 60px;
   color: #e84545;
 }
 
-/* Extra Small Devices, Phones */
-
-/* Custom, iPhone Retina */
-
-/* Custom, iPhone Retina */
-
-/*==========  Mobile First Method  ==========*/
-
-/* Custom, iPhone Retina */
-
-/* Extra Small Devices, Phones */
-
-/* Small Devices, Tablets */
-
-/* Medium Devices, Desktops */
-
-/* Large Devices, Wide Screens */
 
 @media only screen and (max-width: 992px) {
   .team_item {
@@ -673,7 +646,7 @@ ul.osob {
 @media only screen and (max-width: 410px) {
   header {
     height: 440px;
-    background-image: url('/img/banner5.jpg');
+    background-image: url('../img/banner5.jpg');
     background-position: 0px 145px;
   }
 
